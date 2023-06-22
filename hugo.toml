@@ -55,6 +55,11 @@ enable = true
 
 [[params.two.section]]
 img = "img/pic01.jpg"
+title = 'Logo Design'
+body = "Unlock the essence of your brand with YN Graphics' expertly crafted logo designs, capturing its identity and leaving a memorable mark in the minds of your target audience."
+
+[[params.two.section]]
+img = "img/pic01.jpg"
 title = 'Artworks Design'
 body = 'At YN Graphics, we excel in artwork design, providing innovative and visually captivating solutions that bring your creative visions to life.'
 
@@ -75,8 +80,43 @@ body = 'Celebrate the joy of love and create cherished memories with YN Graphics
 
 [[params.two.section]]
 img = "img/pic01.jpg"
-title = 'Wedding Cards'
-body = 'Celebrate the joy of love and create cherished memories with YN Graphics exquisite wedding cards, where elegance and sophistication meet heartfelt design to set the perfect tone for your special day.'
+title = 'Leaflet'
+body = 'Ignite curiosity and inspire action with YN Graphics captivating leaflets, designed to grab attention and deliver your message succinctly and persuasively.'
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Certificate'
+body = 'Celebrate achievements and recognize excellence with YN Graphics meticulously designed certificates, reflecting prestige and honor while capturing the essence of accomplishment.'
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Brochure'
+body = "Captivating designs that showcase your brand's offerings and leave a lasting impression."
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Poster'
+body = "Make a bold statement with YN Graphics' striking posters, designed to captivate viewers and leave a lasting impression with their impactful visuals."
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Menu Cards'
+body = "Delight your customers with YN Graphics' enticing menu cards, showcasing delectable offerings in an aesthetically pleasing and informative manner."
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Banners'
+body = "Command attention and create a powerful visual presence with YN Graphics' impactful banners, designed to leave a lasting impression and effectively promote your brand or event."
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Social Media Posts'
+body = "Drive engagement and build a strong online presence with YN Graphics' captivating social media posts, designed to spark interest, increase reach, and leave a lasting impact on your audience."
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Product Package & Label'
+body = "Enhance your product's appeal and communicate its unique qualities with YN Graphics' meticulously designed packaging and labels, combining captivating visuals and informative elements to stand out on the shelves."
 
 [params.three]
 enable = false
