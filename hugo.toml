@@ -35,41 +35,36 @@ body = '''
 Welcome to YN Graphics, your go-to destination for all your design needs. We offer a wide range of services, including brochure and poster design, menu card creation, banner design, Facebook post graphics, branding packages, label and logo design, business card and product packaging design, invitation and wedding card customization, leaflet creation, professional certificates, photocopying, laminating, binding, mug printing, and art work design. Our dedicated team of designers is committed to delivering exceptional results, capturing your vision and transforming it into captivating visuals. Experience the power of outstanding design with YN Graphics, where creativity meets excellence.
 '''
 
-[[params.one.icon]]
-icon = "fa-gem"
-style = "1"
-label = "Lorem"
+# [[params.one.icon]]
+# icon = "fa-gem"
+# style = "1"
+# label = "Lorem"
 
-[[params.one.icon]]
-icon = "fa-heart"
-style = "2"
-label = "Ipsum"
+# [[params.one.icon]]
+# icon = "fa-heart"
+# style = "2"
+# label = "Ipsum"
 
-[[params.one.icon]]
-icon = "solid fa-code"
-style = "3"
-label = "Dolor"
+# [[params.one.icon]]
+# icon = "solid fa-code"
+# style = "3"
+# label = "Dolor"
 
 [params.two]
 enable = true
 
 [[params.two.section]]
 img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Artworks Design'
+body = 'At YN Graphics, we excel in artwork design, providing innovative and visually captivating solutions that bring your creative visions to life.'
 
 [[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
-
-[[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "img/pic01.jpg"
+title = 'Business  Cards'
+body = 'Elevate your professional image with YN Graphics meticulously crafted business cards, designed to make a lasting impression and leave a memorable mark on potential clients and contacts.'
 
 [params.three]
-enable = true
+enable = false
 title = 'Accumsan mus tortor nunc aliquet'
 body = '''
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
@@ -107,7 +102,7 @@ title = "Nothing important"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [params.cta]
-enable = true
+enable = false
 title = "Arcue ut vel commodo"
 body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
 
@@ -122,7 +117,7 @@ text = "Learn More"
 special = false
 
 [params.contact]
-enable = true
+enable = false
 title = "Contact"
 body = "Leave us a message."
 phone = "+49 (0) 030 000 000"
