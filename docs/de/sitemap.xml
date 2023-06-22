@@ -2,40 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/de/</loc>
+    <loc>https://yngraphics.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://yngraphics.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="https://yngraphics.github.io/de/categories/"
                 />
   </url><url>
-    <loc>/de/categories/</loc>
+    <loc>https://yngraphics.github.io/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://yngraphics.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="https://yngraphics.github.io/de/series/"
                 />
   </url><url>
-    <loc>/de/tags/</loc>
+    <loc>https://yngraphics.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://yngraphics.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="https://yngraphics.github.io/de/tags/"
+                />
+  </url><url>
+    <loc>https://yngraphics.github.io/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yngraphics.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yngraphics.github.io/de/"
                 />
   </url>
 </urlset>
