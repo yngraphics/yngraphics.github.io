@@ -63,6 +63,21 @@ img = "img/pic01.jpg"
 title = 'Business  Cards'
 body = 'Elevate your professional image with YN Graphics meticulously crafted business cards, designed to make a lasting impression and leave a memorable mark on potential clients and contacts.'
 
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Invitation Cards'
+body = 'Make every special occasion unforgettable with YN Graphics exquisite invitation cards, meticulously designed to reflect your unique style and set the perfect tone for your event.'
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Wedding Cards'
+body = 'Celebrate the joy of love and create cherished memories with YN Graphics exquisite wedding cards, where elegance and sophistication meet heartfelt design to set the perfect tone for your special day.'
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Wedding Cards'
+body = 'Celebrate the joy of love and create cherished memories with YN Graphics exquisite wedding cards, where elegance and sophistication meet heartfelt design to set the perfect tone for your special day.'
+
 [params.three]
 enable = false
 title = 'Accumsan mus tortor nunc aliquet'
