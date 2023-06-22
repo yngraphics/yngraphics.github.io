@@ -14,18 +14,6 @@
                 href="https://yngraphics.github.io/de/categories/"
                 />
   </url><url>
-    <loc>https://yngraphics.github.io/de/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yngraphics.github.io/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://yngraphics.github.io/de/series/"
-                />
-  </url><url>
     <loc>https://yngraphics.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"

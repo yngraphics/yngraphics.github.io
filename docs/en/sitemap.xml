@@ -30,19 +30,6 @@
     <loc>https://yngraphics.github.io/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yngraphics.github.io/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://yngraphics.github.io/de/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yngraphics.github.io/series/"
-                />
-  </url><url>
     <loc>https://yngraphics.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,9 +47,6 @@
                 />
   </url><url>
     <loc>https://yngraphics.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yngraphics.github.io/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yngraphics.github.io/</loc>
