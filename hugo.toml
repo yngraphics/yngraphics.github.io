@@ -8,7 +8,7 @@ theme = "spectral"
 [params]
 fancyTitle = "YN Graphics" # title for frontpage, may include image
 copyright = "YN Graphics"
-description = 'brochure | poster | menu card | banners | facebook post | branding package<br />label | logo | business card | product package | Invitation Card | Wedding Cards | Leaflet | Certificate<br />Photocopy | Laminating | Binding | Mug Printing | Art Work Design & Etc'
+description = 'brochure | poster | menu card | banners | facebook post<br />branding package label | logo | business card | product package | Invitation Card<br />Wedding Cards | Leaflet | Certificate | Photocopy | Laminating | Binding<br />Mug Printing | Art Work Design & Etc'
 startbuttonText = "Contact"
 startbuttonLink = "#contact"
 body_is_markdown = true
