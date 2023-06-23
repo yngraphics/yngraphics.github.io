@@ -12,7 +12,7 @@ description = 'brochure | poster | menu card | banners | facebook post | brandin
 startbuttonText = "Contact"
 startbuttonLink = "#contact"
 body_is_markdown = true
-#custom_css = "foo.css"
+# custom_css = "custom.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
 
 # [[params.menu.main]]
@@ -172,7 +172,7 @@ text = "Learn More"
 special = false
 
 [params.contact]
-enable = false
+enable = true
 title = "Contact"
 body = "Leave us a message."
 phone = "+49 (0) 030 000 000"
