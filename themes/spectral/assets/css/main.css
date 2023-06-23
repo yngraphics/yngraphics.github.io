@@ -3639,7 +3639,7 @@ input, select, textarea {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
+		display: block;
 		-moz-flex-direction: column;
 		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
@@ -3654,6 +3654,8 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 		#banner h2 {

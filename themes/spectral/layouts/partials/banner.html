@@ -1,8 +1,7 @@
 <section id="banner">
-  
 	<div class="inner">
-    <img src="img/logo.png" style="height: 30%;width: 150px;"></img>
-    <br><h2>{{ .Site.Params.fancytitle | safeHTML }}</h2>
+    <br><br><br><img src="img/logo.png" style="height: 30%;width: 150px;"></img>
+    <br><br><h2>{{ .Site.Params.fancytitle | safeHTML }}</h2>
     <p>{{ .Site.Params.description | safeHTML }}</p>
     {{ if and .Site.Params.startbuttonText .Site.Params.startbuttonLink }}
 		<ul class="actions special">
@@ -10,5 +9,5 @@
 		</ul>
     {{ end }}
 	</div>
-  <a href="#one" class="more scrolly">{{ i18n "learnmore" }}</a>
+  <a href="#one" class="more scrolly"><br><br><br>{{ i18n "learnmore" }}</a>
 </section>
