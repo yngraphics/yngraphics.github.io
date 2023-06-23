@@ -136,26 +136,6 @@ icon = "solid fa-laptop"
 title = "Ac Augue Eget"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
-[[params.three.feature]]
-icon = "solid fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "solid fa-headphones-alt"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-heart"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-flag"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
 [params.cta]
 enable = false
 title = "Arcue ut vel commodo"
@@ -196,6 +176,6 @@ dribble = ""
 weight = 0
 languageName = "English"
 
-[languages.de]
-weight = 10
-languageName = "Deutsch"
+# [languages.de]
+# weight = 10
+# languageName = "Deutsch"
