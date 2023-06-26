@@ -149,7 +149,7 @@ special = true
 [[params.cta.link]]
 href = "#"
 text = "Learn More"
-special = false
+special = true
 
 [params.contact]
 enable = true
