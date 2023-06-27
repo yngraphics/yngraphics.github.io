@@ -137,18 +137,13 @@ title = "Ac Augue Eget"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [params.cta]
-enable = false
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+enable = true
+title = "Yashod Nawarathna"
+body = "Introducing Mr. Yashod Nawarathna, the creative force behind YN Graphics. With a passion for design and an eye for detail, YN Graphics brings a unique blend of artistry and expertise to every project. Their exceptional talent and deep understanding of visual communication allow them to create captivating designs that leave a lasting impression. Trust YN Graphics to bring your vision to life with their creative genius and unwavering commitment to excellence."
 
 [[params.cta.link]]
 href = "#"
 text = "Activate"
-special = true
-
-[[params.cta.link]]
-href = "#"
-text = "Learn More"
 special = true
 
 [params.contact]
