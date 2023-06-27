@@ -139,7 +139,7 @@ body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidun
 [params.cta]
 enable = true
 title = "Yashod Nawarathna"
-body = "Introducing Mr. Yashod Nawarathna, the creative force behind YN Graphics. With a passion for design and an eye for detail, YN Graphics brings a unique blend of artistry and expertise to every project. Their exceptional talent and deep understanding of visual communication allow them to create captivating designs that leave a lasting impression. Trust YN Graphics to bring your vision to life with their creative genius and unwavering commitment to excellence."
+body = "Introducing Mr. Yashod Nawarathna, the creative force behind YN Graphics. With a passion for design and an eye for detail, YN Graphics brings a unique blend of artistry and expertise to every project. Their exceptional talent and deep understanding of visual communication allow them to create captivating designs that leave a lasting impression. Trust YN Graphics to bring your vision to life with their creative genius and unwavering commitment to excellence."
 
 [[params.cta.link]]
 href = "#"
@@ -151,9 +151,9 @@ enable = true
 title = "Contact"
 body = "Leave us a message."
 phone = "+94 (0) 714 320 842"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+address = "No 99/3<br />Badulla Road<br />Bindunuwewa<br />Bandarawela"
 email = "yngraphics23@gmail.com"
-subject = "New Submission!"
+subject = "YN Graphics"
 formspree_form_id = "xbjvrgyk"
 
 [params.social]
