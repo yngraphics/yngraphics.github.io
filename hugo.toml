@@ -139,12 +139,14 @@ body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidun
 [params.cta]
 enable = true
 title = "Yashod Nawarathna"
-body = "Introducing Mr. Yashod Nawarathna, the creative force behind YN Graphics. With a passion for design and an eye for detail, YN Graphics brings a unique blend of artistry and expertise to every project. Their exceptional talent and deep understanding of visual communication allow them to create captivating designs that leave a lasting impression. Trust YN Graphics to bring your vision to life with their creative genius and unwavering commitment to excellence."
+body = """
+Introducing Mr. Yashod Nawarathna, the creative force behind YN Graphics. With a passion for design and an eye for detail, YN Graphics brings a unique blend of artistry and expertise to every project. Their exceptional talent and deep understanding of visual communication allow them to create captivating designs that leave a lasting impression. Trust YN Graphics to bring your vision to life with their creative genius and unwavering commitment to excellence.
+"""
 
-# [[params.cta.link]]
-# href = "#"
-# text = "Activate"
-# special = true
+[[params.cta.link]]
+href = "#"
+text = "Activate"
+special = true
 
 [params.contact]
 enable = true

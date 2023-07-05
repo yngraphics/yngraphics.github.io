@@ -4,6 +4,7 @@
     <img src="img/logo.png" style="min-width: 200px;max-width: 200px;" class="responsive"></img>
     <p><br></p>
     <h2>{{ .Site.Params.fancytitle | safeHTML }}</h2>
+    <p><br></p>
     <p>{{ .Site.Params.description | safeHTML }}</p>
     {{ if and .Site.Params.startbuttonText .Site.Params.startbuttonLink }}
 		<ul class="actions special">
